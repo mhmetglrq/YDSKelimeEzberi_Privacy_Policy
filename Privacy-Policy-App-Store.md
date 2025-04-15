@@ -5,7 +5,7 @@ _Developer: Mehmet Güler_
 _App: YDS Kelime Ezberi_  
 
 
-NeverEverStudio built the **YDS Kelime Ezberi** app as a **Free** app. This SERVICE is provided by NeverEverStudio at no cost and is intended for use as is.
+Mehmet Güler built the **YDS Kelime Ezberi** app as a **Free** app. This SERVICE is provided by Mehmet Güler at no cost and is intended for use as is.
 
 ## Information Collection and Use
 YDS Kelime Ezberi does **not** collect any personal information directly.
@@ -41,4 +41,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**mhmetglr.q@gmail.com**
+**mhmetglr.q@icloud.com**
